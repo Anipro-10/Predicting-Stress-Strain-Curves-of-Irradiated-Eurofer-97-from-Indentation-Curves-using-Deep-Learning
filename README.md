@@ -1,6 +1,6 @@
 # Predicting Stress-Strain Curves from Indentation Data using Deep Learning
 
-This project implements a deep learning approach to predict stress-strain curves of irradiated Eurofer 97 steel using indentation (load-displacement) data. The model uses a hybrid neural network architecture combining LSTM and dense layers to establish relationships between indentation behavior and mechanical properties.
+This project implements a deep learning approach to predict stress-strain curves of irradiated Eurofer 97 steel using micro-indentation data. The model uses a hybrid neural network architecture combining LSTM and dense layers to establish relationships between indentation behavior and mechanical properties.
 
 ## Overview
 
