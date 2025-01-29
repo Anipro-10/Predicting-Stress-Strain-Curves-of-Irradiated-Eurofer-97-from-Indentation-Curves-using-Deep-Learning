@@ -51,6 +51,10 @@ The model predicts stress-strain curves with the following capabilities:
 - Provides smooth curve predictions after Savitzky-Golay filtering
 
 ## Future Work
-
-- Applying the same pipeline to unirradiated samples
 - Incorporating additional material features and find out its impact on the predictions
+
+## Note
+- Datasets used to train and test the model are confidential and hence are not uploaded
+
+## Contact:
+- reach out to me on mail: anirudh04prakash@gmail.com
