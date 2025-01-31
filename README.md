@@ -37,7 +37,7 @@ Data is collected at various temperatures (250°C, 300°C, 350°C, 400°C, 450°
 ## Model Architecture
 
 The model uses a hybrid architecture:
-- Input branch 1: LSTM network (8 units) for processing PH curves
+- Input branch 1: LSTM network for processing PH curves
 - Input branch 2: Dense layers for processing additional features
 - Merged outputs through concatenation
 - Final dense layer for SS curve prediction
@@ -57,4 +57,4 @@ The model predicts stress-strain curves with the following capabilities:
 - Datasets used to train and test the model are confidential and hence are not uploaded
 
 ## Contact:
-- reach out to me on mail: anirudh04prakash@gmail.com
+- For more information, reach out to me on: anirudh04prakash@gmail.com
